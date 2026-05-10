@@ -1,0 +1,52 @@
+{
+  "Theme": "System",
+  "AccentColor": null,
+  "AccentColorSource": "System",
+  "PowerModeMappingMode": "WindowsPowerMode",
+  "PowerPlans": {},
+  "PowerModes": {
+    "Quiet": "BestPowerEfficiency",
+    "Performance": "BestPerformance",
+    "GodMode": "BestPerformance"
+  },
+  "MinimizeToTray": true,
+  "MinimizeOnClose": true,
+  "WindowSize": {
+    "Width": 1150.4,
+    "Height": 672.0
+  },
+  "DontShowNotifications": false,
+  "NotificationPosition": "BottomCenter",
+  "NotificationDuration": "Normal",
+  "NotificationOnAllScreens": false,
+  "Notifications": {
+    "UpdateAvailable": true,
+    "CapsNumLock": true,
+    "FnLock": true,
+    "TouchpadLock": true,
+    "KeyboardBacklight": true,
+    "CameraLock": true,
+    "Microphone": true,
+    "PowerMode": true,
+    "RefreshRate": true,
+    "ACAdapter": false,
+    "SmartKey": true,
+    "AutomationNotification": true
+  },
+  "TemperatureUnit": "C",
+  "ExcludedRefreshRates": [],
+  "WarrantyInfo": {
+    "Start": "2025-03-22T00:00:00",
+    "End": "2028-03-21T00:00:00",
+    "Link": "https://pcsupport.lenovo.com/products/LAPTOPS-AND-NETBOOKS/GAMING-SERIES/LOQ-15IRX9/83DV/83DV00BEIN/MP2NNLY0"
+  },
+  "SmartKeySinglePressActionId": null,
+  "SmartKeyDoublePressActionId": "6a04c921-8c7b-482a-b480-553afc4fecab",
+  "SmartKeySinglePressActionList": [],
+  "SmartKeyDoublePressActionList": [
+    "6a04c921-8c7b-482a-b480-553afc4fecab"
+  ],
+  "SynchronizeBrightnessToAllPowerPlans": false,
+  "SmartFnLockFlags": "Shift, Ctrl, Alt",
+  "ResetBatteryOnSinceTimerOnReboot": false
+}

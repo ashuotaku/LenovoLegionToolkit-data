@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "Info": {
+    "CoreDeltaMhz": 75,
+    "MemoryDeltaMhz": 150
+  }
+}
